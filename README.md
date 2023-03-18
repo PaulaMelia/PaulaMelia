@@ -4,4 +4,7 @@
 - 📫 How to reach me? paulameliasegarra@gmail.com
 - 💁 Know about my experiences  ➖  12 years commerce/marketing
 
+Languages and Tools
+html5 css3 javascript   typescript      react sass bootstrap      git linux
+
 
